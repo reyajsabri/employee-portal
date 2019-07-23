@@ -3,4 +3,4 @@ Spring RESTfull support and Micro-Services with Netflix publishing APIs.
 ------------------------------------------------------------
 
 
-Please Refer Installation DOC
+Please Refer Config DOC
