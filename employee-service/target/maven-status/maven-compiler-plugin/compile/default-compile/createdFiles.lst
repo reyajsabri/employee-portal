@@ -9,7 +9,6 @@ com\employee\portal\app\config\APPContextConfig.class
 com\employee\portal\app\config\DataSourceConfig.class
 com\employee\portal\app\service\impl\EmployeeServiceImpl.class
 com\employee\portal\app\config\MvcConfiguration.class
-com\employee\portal\app\controller\IndexController.class
 com\employee\portal\app\Application.class
 com\employee\portal\app\controller\EmployeeController.class
 com\employee\portal\app\repository\EmployeeRepository.class

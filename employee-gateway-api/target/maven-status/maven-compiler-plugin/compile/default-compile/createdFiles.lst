@@ -1,0 +1,6 @@
+com\employee\portal\app\controller\EmployeeClient.class
+com\employee\portal\app\dto\EmployeeDTO.class
+com\employee\portal\app\controller\GatewayController.class
+com\employee\portal\app\config\APPContextConfig.class
+com\employee\portal\app\EmployeeGatewayApiApplication.class
+com\employee\portal\app\config\MvcConfiguration.class
