@@ -1,5 +1,5 @@
 # employee-portal
-Spring RESTfull support and Micro-Services with Netflix publishing APIs.
+Spring-Boot RESTfull Applications and Micro-Services with Netflix publisher APIs.
 ------------------------------------------------------------
 
 
