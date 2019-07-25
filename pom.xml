@@ -12,5 +12,6 @@
     <module>service-discovery</module>
     <module>employee-service</module>
     <module>employee-gateway-api</module>
+    <module>employee-web</module>
     </modules>
 </project>

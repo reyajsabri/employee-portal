@@ -14,7 +14,7 @@ public class APPContextConfig implements WebServerFactoryCustomizer<Configurable
 	@Override
 	public void customize(ConfigurableServletWebServerFactory factory) {
 
-		factory.setPort(8080);
+		factory.setPort(8010);
 		factory.setContextPath("/employee-gateway");
 
 	}
